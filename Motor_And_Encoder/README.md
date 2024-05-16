@@ -6,4 +6,4 @@
 
 ## GIF
 
-![Motor rotation 360 degree](./Degree360.gif)
+![Motor rotation 360 degree](./GIFs/Degree360.gif)
